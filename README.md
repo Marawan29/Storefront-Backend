@@ -19,7 +19,7 @@ This package is a storefront backend API, written in SQL and Typescript.
        >GRANT ALL PRIVILEGES ON  **_your-test-database-name_** TO **_your-usernmae_**;
 3. open any terminal or command line in the package directory and run:
    - >npm install
-4. Head to the package directory then:
+4. Head to the package directory then:-
    - Create a file and rename it to .env (**_Be carful of the file name extension_**)
    - Enter your entities in it in a form similar to that one [.env.example](.env.example)
 5. Now take a look at the avilable scripts in [package.json](package.json) and you are ready to go
